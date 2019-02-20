@@ -22,3 +22,6 @@ Create a view and corresponding route for endpoint ```deleteres/``` that will de
 * Return a response as HTML to the browser after every operation
 * Enhance the code for the ```readres``` view to print each Respondent record individually, one per line
 * Enhance the code for the ```readres``` view to return the list of Respodents as pretty printed HTML (HINT: A HTML table is fine)
+
+### NOTE:
+superuser user ID and password is ```student``/```C0d3Cr3w```
